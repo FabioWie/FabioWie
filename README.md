@@ -1,8 +1,8 @@
 Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my carreer transition.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git and GitHub.
-- 🤔 I’m looking for a part time job in development.
+- 🤔 I’m looking for a part time job or internship in development.
 
 Languages and Tools:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
